@@ -43,3 +43,4 @@ We designed the data flow by:
 - [Jeptum Brenda](https://github.com/bjeptum)
 - [Mercy Ochieng](https://github.com/254punchlinez)
 - [Amy Wanjala](https://github.com/wat-tanya)
+- [Erick Chomba](github.com/ch0mba)
